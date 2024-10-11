@@ -3,9 +3,7 @@
   alt="header"/>
 </div>
 <h1 align="center">Hey 👋, I'm Julia Duncan</h1>
-<div class="tenor-gif-embed" data-postid="14098456" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pink-twinkle-shiny-sparkle-bubbly-sparkling-gif-14098456">Pink Twinkle Shiny Sticker</a>from <a href="https://tenor.com/search/pink+twinkle-stickers">Pink Twinkle Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h3 align="center">A full-stack software engineer from San Diego, CA!</h3>
-<div class="tenor-gif-embed" data-postid="14098456" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pink-twinkle-shiny-sparkle-bubbly-sparkling-gif-14098456">Pink Twinkle Shiny Sticker</a>from <a href="https://tenor.com/search/pink+twinkle-stickers">Pink Twinkle Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juliatduncan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliatduncan" height="30" width="40" /></a>
@@ -18,6 +16,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliatdunc&show_icons=true&locale=en&layout=compact" alt="juliatdunc" /></p>
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">via GIPHY</a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juliatdunc&" alt="juliatdunc" /></p>
-<div class="tenor-gif-embed" data-postid="26050379" data-share-method="host" data-aspect-ratio="1.24514" data-width="100%"><a href="https://tenor.com/view/nyan-cat-poptart-cat-rainbow-pixel-flying-cat-gif-26050379">Nyan Cat Poptart Cat Sticker</a>from <a href="https://tenor.com/search/nyan+cat-stickers">Nyan Cat Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<div class="tenor-gif-embed" data-postid="23170996" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/transparent-background-animated-videos-gif-23170996">Transparent Background Animated Videos Sticker</a>from <a href="https://tenor.com/search/transparent+background+animated+videos-stickers">Transparent Background Animated Videos Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<div class="tenor-gif-embed" data-postid="16077930" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/dogs-pomeranian-bark-german-spitz-gif-16077930">Dogs Pomeranian Sticker</a>from <a href="https://tenor.com/search/dogs-stickers">Dogs Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
