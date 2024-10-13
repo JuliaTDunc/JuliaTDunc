@@ -1,5 +1,5 @@
 <div align="center" width="100">
-  <a href="https://juliatdunc.github.io/JuliaTDunc/"target='_blank'>
+  <a href="https://juliatdunc.github.io/JuliaTDunc/"target='_blank'>Portfolio Site
     <img src="https://capsule-render.vercel.app/api?color=0:252c3b,50:445366,100:8c96a3&height=250&section=header&text=Julia%20Duncan%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
     alt="header"/>
   </a>
