@@ -1,6 +1,8 @@
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:252c3b,50:445366,100:8c96a3&height=250&section=header&text=Julia%20Duncan%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
-  alt="header"/>
+  <a href="https://juliatdunc.github.io/JuliaTDunc/"target='_blank'>
+    <img src="https://capsule-render.vercel.app/api?color=0:252c3b,50:445366,100:8c96a3&height=250&section=header&text=Julia%20Duncan%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+    alt="header"/>
+  </a>
 </div>
 <h1 align="center">Hey 👋, I'm Julia Duncan</h1>
 <h3 align="center">A full-stack software engineer from San Diego, CA!</h3>
