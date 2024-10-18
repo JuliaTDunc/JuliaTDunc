@@ -1,22 +1,32 @@
+
 <div align="center" width="100">
-  <a href="https://juliatdunc.github.io/JuliaTDunc/"target='_blank'>Portfolio Site
-    <img src="https://capsule-render.vercel.app/api?color=0:252c3b,50:445366,100:8c96a3&height=250&section=header&text=Julia%20Duncan%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
-    alt="header"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Click%20here%20to%20check%20out%20my%20portfolio!&fontColor=697982&animation=fadeIn&fontSize=20&fontAlign=75&theme=tokyonight">
 </div>
-<h1 align="center">Hey 👋, I'm Julia Duncan</h1>
+<br>
+<div align="center" width="100">
+  <a href="https://juliatdunc.github.io/JuliaTDunc/"target='_blank'>
+   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Julia%20Duncan&fontColor=697982&theme=tokyonight&animation=fadeIn" alt="header">
+  </a>
+  <p></p>
+</div>
+<h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width=30> I'm Julia Duncan</h1>
 <h3 align="center">A full-stack software engineer from San Diego, CA!</h3>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me! ✉</h3>
 <p align="left">
-<a href="https://linkedin.com/in/juliatduncan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliatduncan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/juliatd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="juliatd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juliatduncan" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="50" width="50"/></a>
+<a href="https://www.leetcode.com/juliatd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="juliatd" height="30" width="40"></a>
 </p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,css,git,docker,express,flask,html,js,nodejs,npm,php,postgres,py,react,redux,sqlite,sequelize&perline=5" />
+  </a>
+</p>
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api?theme=vue-dark" alt="Jokes Card" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliatdunc&show_icons=true&locale=en&layout=compact" alt="juliatdunc" /></p>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">via GIPHY</a></p>
+<br>
+<img align="left"src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200">
+<p align="right"><img src="https://readme-jokes.vercel.app/api?theme=cobalt" alt="Jokes Card" /></p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juliatdunc&" alt="juliatdunc" /></p>
 
