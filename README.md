@@ -1,10 +1,11 @@
 
 <div align="center" width="100">
+   <a href="https://juliatdunc.github.io/JuliaTDunc/"target='_blank'>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Click%20here%20to%20check%20out%20my%20portfolio!&fontColor=697982&animation=fadeIn&fontSize=20&fontAlign=75&theme=tokyonight">
 </div>
 <br>
 <div align="center" width="100">
-  <a href="https://juliatdunc.github.io/JuliaTDunc/"target='_blank'>
+ 
    <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Julia%20Duncan&fontColor=697982&theme=tokyonight&animation=fadeIn" alt="header">
   </a>
   <p></p>
