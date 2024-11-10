@@ -18,8 +18,8 @@
 <a href="https://www.leetcode.com/juliatd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="juliatd" height="30" width="40"></a>
 </p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
+   <h3 align="left">Languages and Tools:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,css,git,docker,express,flask,html,js,nodejs,npm,php,postgres,py,react,redux,sqlite,sequelize&perline=5" />
   </a>
