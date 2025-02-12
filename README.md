@@ -21,7 +21,7 @@
 <p align="left">
    <h3 align="left">Languages and Tools:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,css,git,docker,express,flask,html,js,nodejs,npm,php,postgres,py,react,redux,sqlite,sequelize&perline=5" />
+    <img src="https://skillicons.dev/icons?i=bash,css,git,docker,typescript,express,flask,html,js,nodejs,npm,php,postgres,py,react,redux,sqlite,sequelize&perline=5" />
   </a>
 </p>
 <!-- HTML -->
