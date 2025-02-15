@@ -15,7 +15,6 @@
 <h3 align="left">Message me on LinkedIn! ✉</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juliatduncan" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="50" width="50"/></a>
-<a href="https://www.leetcode.com/juliatd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="juliatd" height="30" width="40"></a>
 </p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <p align="left">
