@@ -3207,6 +3207,10 @@ img.u-pull-left {
     font-size     : calc(var(--text-huge) * var(--text-huge-multiplier));
     padding-right : 5vw;
 }
+.language-tool-icons{
+    display: flex;
+    justify-content: space-between;
+}
 
 /* --------------------------------------------------------------------
  * ## intro social
